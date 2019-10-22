@@ -1,0 +1,27 @@
+{
+  "categories": [
+    {
+      "id": "4321",
+      "category": "new category",
+      "name": "kris",
+      "display_name": "davidzheng",
+      "description": "student"
+    },
+    {
+      "id": "12345",
+      "category": "new category",
+      "name": "john",
+      "display_name": "john_davidson",
+      "description": "student"
+    }
+  ],
+  "products": [
+    {
+      "id": "2468",
+      "category": "new category",
+      "name": "klay",
+      "display_name": "klay",
+      "description": "bball player"
+    }
+  ]
+}
