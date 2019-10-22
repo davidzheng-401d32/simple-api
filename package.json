@@ -1,0 +1,26 @@
+{
+  "name": "simple-api",
+  "version": "1.0.0",
+  "description": "## Simple-api",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test-watch": "jest --watchAll --verbose --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidzheng-401d32/simple-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidzheng-401d32/simple-api/issues"
+  },
+  "homepage": "https://github.com/davidzheng-401d32/simple-api#readme",
+  "dependencies": {
+    "eslint": "^6.5.1",
+    "jason-server": "^3.0.0",
+    "jest": "^24.9.0"
+  }
+}
