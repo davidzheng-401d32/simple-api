@@ -11,9 +11,8 @@
 * [front-end](http://xyz.com) (when applicable)
 
 #### Documentation
-* [api docs](http://xyz.com) (API servers)
-* [jsdoc](http://xyz.com) (Server assignments)
-* [styleguide](http://xyz.com) (React assignments)
+* [api docs](https://app.swaggerhub.com/home?loggedInWithSpec=true) (API servers)
+
 
 ### Modules
 #### `modulename.js`
@@ -38,9 +37,7 @@ Usage Notes or examples
   * Returns a JSON object with xyz in it.
   
 #### Tests
-* How do you run tests?
-* What assertions were made?
-* What assertions need to be / should be made?
+No automated testing is required for this assignment 
 
 #### UML
 Link to an image of the UML for your application and response to events
